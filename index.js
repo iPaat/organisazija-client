@@ -1,0 +1,1 @@
+require('./organisazija-client/entwicklungshinweis')
